@@ -1,4 +1,4 @@
-# Incredibox-20-Polos-PC-Template-Source
+# Incredibox 20 Polos Mod Template Source Code
 welcome to the 20 polos PC template Source Code here you can use it for making PC ports for your mods I guess
 
 
