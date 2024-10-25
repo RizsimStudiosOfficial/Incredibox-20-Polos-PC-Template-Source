@@ -4678,7 +4678,7 @@ video::-webkit-media-controls {
 	width: 1024px;
 	height: 252px;
 	left: 50%;
-	margin-left: -512px;
+	margin-left: -716px;
 	opacity: 1
 }
 
@@ -4717,7 +4717,7 @@ video::-webkit-media-controls {
 #game #box-bottom #box-picto .picto .scale {
 	width: 68px;
 	height: 68px;
-	background-size: 1360px 136px;
+	background-size: 2720px 136px;
 	background-repeat: no-repeat;
 	border-radius: 14px;
 	transition: opacity .4s ease-out;
